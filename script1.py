@@ -1,1 +1,2 @@
-print 'hello'
+print 'hello v2'
+print 'bonjour'
